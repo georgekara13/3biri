@@ -1,4 +1,5 @@
                                          --3biri---
+/*authors: George Karagiannis,Fotis Georgakopoulos*/
 
 A simple c program that takes an input txt file,tokenizes the input and puts it in a circular linked list.
 
